@@ -12,7 +12,7 @@ The main objective of this project was to implement a minimax algorithm mimickin
 * The file "minimax" contains the main code running the algorithm.
 * The file "parameters" needs to be included in the same folder as the minimax code.
 * The file "bs_closed_form" contains an implementation of the BS equations for EC options.
-* The file "bs_closed_implied vol" contains an implementation of the Newton Algorithm to compute the implied volatility. 
+* The file "bs_implied vol" contains an implementation of the Newton Algorithm to compute the implied volatility. 
 
  ### How to run the code?###
  To run this code you will need: 
