@@ -2,7 +2,7 @@
 ##Alexandra Rouhana's Final Year Project##
 
 
-###what's the story ?###
+###What is it ?###
 The main objective of this project was to implement a minimax algorithm mimicking the Black-Scholes hedging strategy.
  A game between the Investor and the Market was simulated. 
  This game has been divided into multiple trading periods during which  both players select in turn their future actions from a predefined set. For the Investor, finding the best move essentially comes to minimize his losses knowing that the adversary, the Market will want to maximize them. 
